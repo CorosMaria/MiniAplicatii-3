@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\obj\Debug\Cerc_inscris_si_cirsumscris_in_triunghi.Form1.resources
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\obj\Debug\Cerc_inscris_si_cirsumscris_in_triunghi.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\obj\Debug\Cerc inscris si cirsumscris in triunghi.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\bin\Debug\Cerc inscris si cirsumscris in triunghi.exe
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\bin\Debug\Cerc inscris si cirsumscris in triunghi.pdb
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\obj\Debug\Cerc inscris si cirsumscris in triunghi.exe
+D:\MARIA\Programare\Aplicatii\Cerc inscris si cirsumscris in triunghi\Cerc inscris si cirsumscris in triunghi\obj\Debug\Cerc inscris si cirsumscris in triunghi.pdb

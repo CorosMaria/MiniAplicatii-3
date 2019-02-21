@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\bin\Debug\Cercuri.exe
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\bin\Debug\Cercuri.pdb
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\obj\Debug\Cercuri.Form1.resources
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\obj\Debug\Cercuri.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\obj\Debug\Cercuri.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\obj\Debug\Cercuri.exe
+D:\MARIA\Programare\Aplicatii\Cercuri\Cercuri\obj\Debug\Cercuri.pdb

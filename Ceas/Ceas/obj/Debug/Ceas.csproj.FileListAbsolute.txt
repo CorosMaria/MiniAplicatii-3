@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\obj\Debug\Ceas.Form1.resources
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\obj\Debug\Ceas.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\obj\Debug\Ceas.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\bin\Debug\Ceas.exe
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\bin\Debug\Ceas.pdb
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\obj\Debug\Ceas.exe
+D:\MARIA\Programare\Aplicatii\Ceas\Ceas\obj\Debug\Ceas.pdb
